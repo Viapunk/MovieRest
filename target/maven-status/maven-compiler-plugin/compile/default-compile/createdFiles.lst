@@ -1,0 +1,9 @@
+rest/IResources.class
+rest/MovieResources.class
+domain/Actor.class
+domain/Movie.class
+domain/DataTemplate.class
+domain/Comment.class
+rest/ApplicationConfig.class
+domain/service/AbstractService.class
+rest/ActorResources.class
